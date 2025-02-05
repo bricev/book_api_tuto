@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Book API", "Book API.csproj", "{3028A572-C616-4628-84F8-C27FE25A3224}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3028A572-C616-4628-84F8-C27FE25A3224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3028A572-C616-4628-84F8-C27FE25A3224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3028A572-C616-4628-84F8-C27FE25A3224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3028A572-C616-4628-84F8-C27FE25A3224}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

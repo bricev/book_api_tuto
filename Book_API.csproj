@@ -21,4 +21,8 @@
         <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="9.0.1" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Content Include=".github\workflows\publish-container-image.yml" />
+    </ItemGroup>
+
 </Project>

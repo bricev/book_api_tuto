@@ -30,7 +30,7 @@ resource "azurerm_container_group" "bookapi" {
 
   container {
     name   = "bookapi"
-    image  = "your-dockerhub-account/bookapi:latest" # Change to your container image reference
+    image  = "ghcr.io/bricev/book_api_tuto:latest" # Change to your container image reference
     cpu    = 0.5
     memory = 1.5
 
